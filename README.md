@@ -1,6 +1,6 @@
 # 🪐 Universal Stationery Suppliers
 
-![Universal Stationery Suppliers](./Preview.png)
+![Universal Stationery Suppliers](./public/Preview.png)
 
 Your **one-stop wholesale destination** for all stationery needs.  
 We make **bulk buying simple, affordable, and reliable**.
